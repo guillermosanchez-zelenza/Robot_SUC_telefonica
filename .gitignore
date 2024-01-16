@@ -1,0 +1,12 @@
+# Archivos de configuración local
+config.ini
+
+# Directorios de entorno virtual
+venv/
+
+# Archivos generados automáticamente
+*.pyc
+__pycache__/
+
+# Archivo de log
+*.log
